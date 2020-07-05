@@ -1,6 +1,6 @@
 # **Welcome to the Logic Cubed!**
 
-### [LogicCubed.cf](http://logiccubed.cf)
+### [LogicCubed](https://app.movsisyan.info/LogicCubed)
 This is a CTF that has one goal.
 
 
